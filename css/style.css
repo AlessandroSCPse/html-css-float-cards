@@ -1,0 +1,29 @@
+/* RESET */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* COMMON */
+body {
+    font-family: 'Fredoka', sans-serif;
+}
+
+.container {
+    width: 70%;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+    margin: 30px 0;
+    color: #e53270;
+    font-size: 38px;
+}
+
+.subtitle-text {
+    font-size: 18px;
+    text-align: center;
+    margin-bottom: 30px;
+}
